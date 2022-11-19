@@ -1,7 +1,7 @@
 # WEB-RADIO-UPDATE
 
 <item>
-<title>[COLOR silver][B] JAGUARIBE WEB RÁDIO - RECIFE/PE [/B][/COLOR][COLOR yellow] WEB STREAMING [/COLOR]</title>
+<title>[COLOR silver] JAGUARIBE WEB RÁDIO - RECIFE/PE [/COLOR][COLOR yellow] WEB STREAMING [/COLOR]</title>
 <link>http://stream.zeno.fm/6cvqc50b568uv</link>
 <thumbnail>https://ia802305.us.archive.org/26/items/jaguaribe-fm-removebg-preview/JAGUARIBE_FM-removebg-preview.png</thumbnail>
 <fanart>https://ia802305.us.archive.org/26/items/jaguaribe-fm-removebg-preview/JAGUARIBE_FM-removebg-preview.png</fanart>
@@ -10,7 +10,7 @@
 
 
 <item>
-<title>[COLOR silver][B] JAGUARIBE WEB GOSPEL - RECIFE/PE [/B][/COLOR][COLOR yellow]  WEB STREAMING [/COLOR]</title>
+<title>[COLOR silver] JAGUARIBE WEB GOSPEL - RECIFE/PE [/COLOR][COLOR yellow] WEB STREAMING [/COLOR]</title>
 <link>http://stream.zeno.fm/3mydb487f0hvv</link>
 <thumbnail>https://ia601404.us.archive.org/29/items/web_20221019/WhatsApp%20Image%202022-10-17%20at%2020.49.19.jpeg</thumbnail>
 <fanart>https://ia601404.us.archive.org/29/items/web_20221019/WhatsApp%20Image%202022-10-17%20at%2020.49.19.jpeg</fanart>
