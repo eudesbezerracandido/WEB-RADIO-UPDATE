@@ -3,7 +3,7 @@
 <item>
 <title>[COLOR silver] JAGUARIBE WEB RÁDIO - RECIFE/PE [/COLOR][COLOR yellow] WEB STREAMING [/COLOR]</title>
 <link>http://stream.zeno.fm/6cvqc50b568uv</link>
-<thumbnail>https://ia802305.us.archive.org/26/items/jaguaribe-fm-removebg-preview/JAGUARIBE_FM-removebg-preview.png</thumbnail>
+<thumbnail>https://ia800508.us.archive.org/12/items/radio_202311/a827c757.png</thumbnail>
 <fanart>https://ia802305.us.archive.org/26/items/jaguaribe-fm-removebg-preview/JAGUARIBE_FM-removebg-preview.png</fanart>
 <info>Jaguaribe Web Rádio,  proporciona  uma ruptura do espaço local, regional e nacional para um espaço mundial sem fronteiras, onde o acesso da informação ou musical  se dá em qualquer espaço e tempo em qualquer parte do mundo. A musicalidade chega de forma linear em tempo real e automática. A Rádio traz  Entretenimento, Diversão, Entrevistas, músicas, PodCasts.</info>
 </item>
